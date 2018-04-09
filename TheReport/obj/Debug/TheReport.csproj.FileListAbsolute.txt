@@ -1,0 +1,7 @@
+C:\Users\paja\source\repos\TheReport\TheReport\bin\Debug\TheReport.exe.config
+C:\Users\paja\source\repos\TheReport\TheReport\bin\Debug\TheReport.exe
+C:\Users\paja\source\repos\TheReport\TheReport\bin\Debug\TheReport.pdb
+C:\Users\paja\source\repos\TheReport\TheReport\obj\Debug\TheReport.csprojResolveAssemblyReference.cache
+C:\Users\paja\source\repos\TheReport\TheReport\obj\Debug\TheReport.csproj.CoreCompileInputs.cache
+C:\Users\paja\source\repos\TheReport\TheReport\obj\Debug\TheReport.exe
+C:\Users\paja\source\repos\TheReport\TheReport\obj\Debug\TheReport.pdb
